@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "todo": "walk the dog", "slug": "walk-the-dog" },
+    { "id": 2, "todo": "wash the car", "slug": "wash-the-car" },
+    { "id": 3, "todo": "Grind Leetcode", "slug": "grind-leetcode" }
+  ]
+}
